@@ -4,7 +4,14 @@ This is a simple spam bot made in python. You can use to to spam **anyone** with
 
 ## Setup
 
-Gae remember to do this part after publishing it on githab ;-;
+First you would need to download the code. You can do that by downloading it as a .zip file and then extracting it.
+you can also use(You need to have Git installed)-
+```
+git clone https://github.com/TheMystiq/python-spam-bot.git
+```
+
+Then you need to open "spamtext" and enter lyrics of any song you want.
+Thats basically it.
 
 ## Usage
 
